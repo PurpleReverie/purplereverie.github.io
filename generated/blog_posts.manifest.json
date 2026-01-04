@@ -1,0 +1,14 @@
+[
+  {
+    "slug": "first_post",
+    "title": "this is my first post",
+    "short": "this is my first post about my blog",
+    "date": "2025.01.24"
+  },
+  {
+    "slug": "second_post",
+    "title": "this is my second post",
+    "short": "this is my second post about my blog",
+    "date": "2025.01.24"
+  }
+]

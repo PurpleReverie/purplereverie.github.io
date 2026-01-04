@@ -1,0 +1,30 @@
+[
+  {
+    "slug": "education",
+    "company": "Education",
+    "role": "Creative Technology AUT",
+    "period": "Bachelors: 2011–2013 | Masters: 2015–2016",
+    "order": 4
+  },
+  {
+    "slug": "titan",
+    "company": "Titan Ideas",
+    "role": "Unity Developer",
+    "period": "2017–2019",
+    "order": 3
+  },
+  {
+    "slug": "verum",
+    "company": "Verum Digital",
+    "role": "Full Stack Developer",
+    "period": "2022–2024",
+    "order": 1
+  },
+  {
+    "slug": "waxeye",
+    "company": "Waxeye",
+    "role": "Unity Developer",
+    "period": "2019–2022",
+    "order": 2
+  }
+]

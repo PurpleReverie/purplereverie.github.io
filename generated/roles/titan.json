@@ -1,0 +1,8 @@
+{
+  "slug": "titan",
+  "company": "Titan Ideas",
+  "role": "Unity Developer",
+  "period": "2017–2019",
+  "order": 3,
+  "body": "- Developed edutainment mobile applications for clients.\n- Built custom VR and AR installations for holiday and special events around Auckland.\n- Created an AR-based interactive storytelling app for a local cultural body using Unity and C#, implementing a dynamic content delivery system to enable weight development of additional content and overcome mobile app size constraints (AssetBundles on AWS).\n- Developed an AR-based colouring book app that projected real coloured-in pages onto 3D models, bringing children's drawings to life.\n"
+}

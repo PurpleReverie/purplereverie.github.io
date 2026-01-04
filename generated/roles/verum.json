@@ -1,0 +1,8 @@
+{
+  "slug": "verum",
+  "company": "Verum Digital",
+  "role": "Full Stack Developer",
+  "period": "2022–2024",
+  "order": 1,
+  "body": "- Various e-commerce, property management, and data migration projects. Contributed to established codebases, resolving issues and taking ownership of misaligned codebases to improve stability.\n- Frontend and backend projects using React, NestJS, ExpressJS, and WordPress.\n- Led and developed an end-to-end full-stack/Unity-based edutainment (education + entertainment) mobile game to teach Arabic to children, including a full backend service and frontend dashboard to track progress. Implemented an external in-app purchase flow, saving 30% on Google and Apple IAP commission fees.\n"
+}
